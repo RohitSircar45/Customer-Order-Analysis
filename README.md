@@ -1,4 +1,4 @@
-# 🛍️ ShopSmart USA — Customer & Sales Analysis
+# 🛍️ ShopSmart USA Customer & Sales Analysis
 
 > An end-to-end data analytics project analyzing 50,000 customers and 50,000 orders from a fictional U.S. e-commerce retailer, covering SQL, Python EDA, and Power BI dashboards.
 
